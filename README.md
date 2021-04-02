@@ -33,3 +33,14 @@
 =============
 
 ![aaaaaaaaaaaa](https://user-images.githubusercontent.com/76800974/113377592-b169e880-93af-11eb-8663-41fe328a2b9e.jpg)
+
+Build LifeCycle과 Phase들
+=============
+
+![aaaaaaaaaaaa](https://user-images.githubusercontent.com/76800974/113378386-deb79600-93b1-11eb-93c2-50749447c8e8.jpg)
+
+![bbbbbbbbbbbbbbb](https://user-images.githubusercontent.com/76800974/113378388-dfe8c300-93b1-11eb-903c-f2a46f415720.jpg)
+
+![ccccccccccccccc](https://user-images.githubusercontent.com/76800974/113378389-dfe8c300-93b1-11eb-946d-014b7fbdd29c.jpg)
+
+![ddddddddddd](https://user-images.githubusercontent.com/76800974/113378391-e0815980-93b1-11eb-95ff-dc161d785422.jpg)
