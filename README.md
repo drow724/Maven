@@ -63,3 +63,10 @@ Build LifeCycle과 Phase들
 ![ggggggggggggggg](https://user-images.githubusercontent.com/76800974/113386010-44148280-93c4-11eb-9a06-1d1497a15ac3.jpg)
 
 ![hhhhhhhhhhhhh](https://user-images.githubusercontent.com/76800974/113386012-44148280-93c4-11eb-8475-d62066aca837.jpg)
+
+라이브러리 오류 문제
+=============
+
+![1111111111111](https://user-images.githubusercontent.com/76800974/113386085-67d7c880-93c4-11eb-9ca4-18ef6e6ca916.jpg)
+
+IDE를 다 끄고 repository폴더 안에 내용을 모두 지운다
