@@ -28,6 +28,17 @@
     </dependency>
     <!-- https://mvnrepository.com/artifact/org.apache.tomcat/tomcat-jsp-api -->
 
+    <dependency>
+    	<groupId>org.apache.tomcat</groupId>
+    	<artifactId>tomcat-jsp-api</artifactId>
+    	<version>9.0.43</version>
+    	<type>pom.sha512</type>
+    </dependency>
+    <dependency>
+    	<groupId>com.newlecture</groupId>
+    	<artifactId>examlib</artifactId>
+    	<version>0.0.1-SNAPSHOT</version>
+    </dependency>
   </dependencies>
 
   <build>
